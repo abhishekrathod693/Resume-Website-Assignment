@@ -1,1 +1,1 @@
-# Resume-Website-Assignmnet
+# Resume-Website-Assignment
